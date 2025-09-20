@@ -1,4 +1,5 @@
 Integrantes:
+
 Erik Yuuta Goto - RM558076
 
 Guilherme Vieira Augusto - RM557264
@@ -10,6 +11,7 @@ Gustavo Pasquini- RM555454
 Augusto Rocha - RM556316
 
 Descrição:
+
 Fila - registra consumos na ordem do dia.
 
 Pilha - permite ver o histórico em ordem inversa.
