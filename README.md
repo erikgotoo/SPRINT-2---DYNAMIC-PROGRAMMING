@@ -1,8 +1,12 @@
 Integrantes:
 Erik Yuuta Goto - RM558076
+
 Guilherme Vieira Augusto - RM557264
+
 Vinicius Vilas Boas - RM557843
+
 Gustavo Pasquini- RM555454
+
 Augusto Rocha - RM556316
 
 Descrição:
